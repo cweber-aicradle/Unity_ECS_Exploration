@@ -58,3 +58,13 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*GettingStarted_ECS/Assets/.idea
+
+# MacOS
+*.DS_Store
+
+# Unity - above instruction to ignore Library fails
+*Library/
+*Temp/
+*obj/
+*Logs/

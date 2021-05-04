@@ -58,6 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-#MacOS
+# MacOS
 *.DS_Store
+
+*GettingStarted_ECS/Assets/.idea
 
